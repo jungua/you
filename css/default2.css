@@ -872,10 +872,14 @@ label.css-label_alarm {background-image:url('http://image.yeoboya.com/imgs/new_w
 /* 남성 신규회원 프로필 등록 유도 알림창(180416 정우아) */
 .item_pop{width:300px!important; height:auto; margin-top:-160px; margin-left:-150px;}
 .free_item_box_wrap{position:relative; width:100%; height:auto; box-sizing:border-box; padding:0 22px; margin-top:10px;}
-.free_item_box{position:relative; width:auto; height:auto; border:1px solid #ddd; box-sizing:border-box; padding-left:0; margin:10px 0 20px 0;}
-.free_item_box li{border-bottom:1px solid #ddd; height:30px; line-height:30px;}
+.free_item_box{position:relative; width:auto; height:auto; border:1px solid #b297d4; box-sizing:border-box; padding-left:0; margin:10px 0 20px 0;}
+.free_item_box li{border-bottom:1px solid #b297d4; height:30px; line-height:30px;}
 .free_item_box li:last-child{border-bottom:0;}
-.free_item_box .free_item_hd{margin:0;; background-color:#f2f2f2; box-sizing:border-box; color:#6c6c6c; font-size:14px; letter-spacing:-0.7px; width:100%;}
+.free_item_box .free_item_hd{margin:0;; background-color:#a177d7; box-sizing:border-box; color:#6c6c6c; font-size:14px; letter-spacing:-0.7px; width:100%;}
+.free_item_box .free_item_hd .free_icon{background:url(http://image.yeoboya.com/imgs/new_wedding/mobile/img/item_icon.png) no-repeat 0px 2px; background-size:14px 16px; padding-left:18px; font-size:1em!important; color:#fff!important;}
+.free_item_box .left_box{float:left;}
+.free_item_box .item_list{width:60%;}
+.free_item_box .item_list2{width:40%;}
 .free_item_box .free_item_list{font-size:13px; color:#515151;}
-.free_item_box .item_num{font-size:13px!important; color:#5391d9!important;}
+.free_item_box .item_num{font-size:13px!important; color:#9c66e3!important;}
 /*---------------------------------------------------*/
